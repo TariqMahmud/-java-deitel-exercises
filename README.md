@@ -4,4 +4,4 @@ My solutions to some exercises in the textbook above as well as class exercises,
 
 ## Chapters
 - __Chapter 1__- Introduction to Computers, the Internet and Java
-- [__Chapter 2__- Introduction to Java Applications; Input/ Output and Operators](https://github.com/oluwadamiloju/java-deitel-exercises/tree/main/src/chapter2)
+- [__Chapter 2__- Introduction to Java Applications; Input/ Output and Operators](https://github.com/TariqMahmud/-java-deitel-exercises/tree/master/src/chapter2)
